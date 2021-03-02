@@ -1,0 +1,12 @@
+ SEND
+ MORE+
+ ----
+MONEY
+
+ 9567
+ 1085+
+ ----
+10652
+
+Waktu yang dibutuhkan : 1.784 detik
+Jumlah tes yang dibutuhkan : 3496459
